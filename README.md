@@ -12,7 +12,7 @@
 | 5 | THERE EXISTS AN x, NOT Q(x) | $$(\exists x)\neg Q(x)$$ |
 | 6 | IF P THEN Q EQUIVALENT TO NOT P OR Q | $$P\to Q \equiv \neg P \vee Q$$ |
 | 7 | Euler's Identity |  $$e^{i\pi}+1=0$$  |
-| 8 | SUM of n from 1 to 100 Equals 5050 | $$\sum_{n=1}{100} n = 5050$$ |
+| 8 | SUM of n from 1 to 100 Equals 5050 | $$\sum_{n=1}^{100} n = 5050$$ |
 
 ### 2.2 Translation
 Using the propositions 
